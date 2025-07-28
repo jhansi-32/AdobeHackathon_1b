@@ -1,0 +1,26 @@
+# Large model cache
+hf_model_cache/
+
+# Docker images
+*.tar
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp data/ 
