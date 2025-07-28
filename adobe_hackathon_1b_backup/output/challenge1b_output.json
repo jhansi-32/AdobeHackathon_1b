@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T08:37:58.079476"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Luxurious Restaurants",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Travel Tips",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Water Activities",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "City Exploration",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Upscale Restaurants",
+      "importance_rank": 5,
+      "page_number": 4
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": " You are an expert travel planner. Summarize content to help organize a 4-day group trip to France: recommend cities, activities, places to eat, cultural highlights, tips for groups, and practical logistics .",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": " The South of France, or \"Le Midi,\" is known for its diverse landscapes . The region is well-connected by an extensive network of trains, buses, and flights . English is widely spoken in tourist areas .",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": " You are an expert travel planner. Summarize content to help organize a 4-day group trip to France: recommend cities, activities, places to eat, cultural highlights, and tips for groups .",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": " You are an expert travel planner. Summarize content to help organize a 4-day group trip to France . Recommend cities, activities, places to eat, cultural highlights, tips for groups, and practical logistics. Consider using public transportation to explore cities efficiently .",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": " Le Mirazur offers a unique dining experience with a focus on fresh, local ingredients and innovative dishes inspired by Mediterranean flavors . La Chèvre d'Or serves refined Provençal cuisine with breathtaking views of the French Riviera . Le Louis XV - Alain Ducasse is a three-Michelin-starred restaurant in Monaco .",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": " Hotel Negresco is a historic five-star hotel located on the Promenade des Anglais in Nice . Hôtel de Paris offers elegant rooms, a private beach, and a Michelin-starred restaurant . Hotel Martinez is a luxurious hotel located in Cannes, offering elegant rooms and a serene atmosphere . Hotel La Bastide de Gordes is located in a historic building in Gordes, with stunning gardens .",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": " The Grand-Hôtel du Cap-Ferrat, A Four Seasons Hotel, offers elegant rooms, a spa, and a private beach . Hôtel de Paris Monte-Carlo (Monaco) offers opulent rooms, world-class spa, Michelin-starred restaurants . The stunning location and impeccable service make it a premier destination in Monaco . Le Byblos (Saint-Tropez) is a luxurious hotel set in a vineyard .",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": " The South of France is renowned for its beautiful coastline along the Mediterranean Sea . Here are some activities to enjoy by the sea: Eating, swimming and swimming .",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": " The diverse landscapes of the South of France offer plenty of opportunities for outdoor adventures . The Pyrenees National Park offers challenging hikes and stunning mountain scenery . Explore the unique wetlands on horseback or by bike in Camargue .",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": " The South of France is a food lover's paradise . There are some activities to indulge in the region's culinary delights . The region is known for its cuisine .",
+      "page_number": 5
+    }
+  ]
+}
